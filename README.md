@@ -36,6 +36,7 @@ Ans-> I approach designing software in the following order:
             iii. Check and correct.
         4. Create final software design.
 
+
       The techniques or strategies I would use in the future to analyze and design a system are:
       
         1. Effective reading and note-taking strategies.
