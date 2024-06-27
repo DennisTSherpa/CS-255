@@ -10,12 +10,11 @@ Que 1} Briefly summarize the DriverPass project. Who was the client? What type o
 Ans-> Summary of the DriverPass project:
 
         i. Client: DriverPass
-        
         ii. Type of system requested: A website that allowed them to provide the resources (i.e. online classes, tests and in-person driving lessons) to students (aka customers) hoping to pass their DMV test.
         
 Que 2} What did you do particularly well?
 
-Ans-> I exceled in providing accurate system designs that meet the client's requirements. Also, I succeeded in developing a plan to meet user requirementson in an organized and timely manner.
+Ans-> I exceled in providing accurate system designs that meet the client's requirements. Also, I succeeded in developing a plan to meet user requirements in an organized and timely manner.
 
 Que 3} If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
@@ -23,14 +22,14 @@ Ans-> I would choose to revise my class diagram for DriverPass. I would improve 
 
 Que 4} How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
 
-Ans-> I interpret user needs by asking key questions that will provide me the specific answers I need to understand their aspirations for their system design. Furthermore, by clearly understanding and organizing the user's needs I was able to efficiently implement them into my system design. It crucial to consider the user's needs when designing because the system is designed for the user, therefore, it must fulfill the user's expectations.
+Ans-> I interpreted the user's needs by closely reviewing the interview, where I extracted vital information to fulfill the user's aspirations for their system. Furthermore, by clearly understanding and organizing the user's needs I was able to efficiently implement them into my system design. It crucial to consider the user's needs when designing the system because the system is designed for the user, therefore, it must fulfill the user's expectations.
 
 Que 5} How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
 
 Ans-> I approach designing software in the following order:
 
         1. Understand software requirements.
-        2. Create a drafts of software designs.
+        2. Create a draft of the software design.
         3. Repeat and refine.
             i. Get and implement feedback.
             ii. Learn and improve.
